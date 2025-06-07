@@ -1,0 +1,21 @@
+🚀 QRMagic v0.8.0 — "New Orleans"
+
+Create beautiful QR codes, your way. This early access version introduces 
+Pro Mode for power users while keeping Guest Mode completely free and functional.
+
+✨ New in this release:
+- Fully working Pro Mode unlock via registration key
+- Persistent settings saved across sessions
+- Guest Mode: Black & white QR with label picker
+- Pro Mode: Theme dropdowns, custom labels, icons, and styled borders
+
+Register by Emailing your registration file to twisted.poet@gmail.com
+or go to https://twistedpoet.yourwebsitespace.com
+
+0.8.0.1 - "NewOrleans"
+
+• Fixed: Registration Request File not being generated correctly
+• New: Users can now request a key from the Register screen
+• Writes a .reg file with email + hash, ready to email for key activation
+
+Thank you for testing QRMagic! Feedback welcome.

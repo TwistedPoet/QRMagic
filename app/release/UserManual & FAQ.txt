@@ -1,0 +1,135 @@
+──────────────────────────────────────────────
+📱 QRMagic v0.8.0 – "New Orleans"
+User Guide & Feature Overview
+──────────────────────────────────────────────
+
+Welcome to QRMagic, your personal QR code design studio!
+Whether you're a casual user or a creative pro, QRMagic makes it easy to create, 
+label, and style QR codes in seconds.
+
+────────────────────────────
+🧭 Getting Started
+────────────────────────────
+1. Launch QRMagic – you’ll begin at the splash screen, followed by a quick intro.
+2. Tap "Continue" to enter Guest Mode and start generating QR codes immediately.
+3. Optional: Tap "Upgrade to Pro" to enter a registration key and unlock Pro Mode features.
+
+────────────────────────────
+🆓 Guest Mode Features
+────────────────────────────
+• Enter text or a link to generate a black and white QR code.
+• Choose from 5 preset labels: Scan Me, More Info, Shop Now, etc.
+• Save your QR code with a clean label applied.
+
+────────────────────────────
+🔓 Pro Mode Features
+────────────────────────────
+After entering a valid registration key, you’ll unlock:
+
+• 🎨 Theme Picker – Choose custom QR code colors.
+• 🏷️ Label Editor – Write your own custom label text.
+• 🧩 Icon Selector – Add emojis/icons to your label (e.g., 📞, 📧, 🔗).
+
+
+────────────────────────────
+🔐 Registering Pro Mode
+────────────────────────────
+Your License Key will be one of the following unlock formats:
+  qrmagic.pro.XXXXXXXXXX  
+  qrmagic.reg.XXXXXXXXXX  
+  qrmagic.lic.XXXXXXXXXX  
+
+→ The suffix (after the last dot) will be a 10 digit Hexadecimal Hash
+provided upon payment of the One Time License. Your key will remain active 
+for future Upgrades. RETAIN YOUR REGISTRATION EMAIL as proof of Registration,
+we do NOT save your personal information 
+
+Your registration is stored on your device and stays active unless you clear app data.
+You may clear the App Cache without affecting Registration status.
+
+────────────────────────────
+🖼 Saving Your QR Code
+────────────────────────────
+• After customizing, tap "Save QR".
+• Your QR code will be stored in your device’s Pictures/QRMagic folder.
+Most devices will not show your codes in the gallery app. Use MyFiles or similar.
+Navigate to Internal Storage/pictires/QRMagic to find your codes.
+
+────────────────────────────
+🎨 Color Theme Preview (Pro)
+────────────────────────────
+ Classic (Black/White)
+ Invert (White on Black)
+ Midnight (DkGray on White)
+ Gold Label (Gold on Pale Yellow)
+ Emerald (Green on Pale Green)
+ Cobalt  (Blue on White)
+ Garnet  (Red on Lt Pink)
+ Graphite (MedGray on White)
+ Twilight (Purple on White)
+ Sunset   (Orange on Pale Orange)
+• DebugPink (Easter Egg) 
+
+────────────────────────────
+🧪 Easter Egg
+────────────────────────────
+Entering: `qrmagic.devpink` as your QR content unlocks a hidden theme for that session!
+
+────────────────────────────
+🧹 Troubleshooting
+────────────────────────────
+• Don’t see Pro Mode after registering? Close and reopen the app.
+• Accidentally cleared app data? Re-enter your unlock code to restore Pro access.
+• Text input not visible in Dark Mode? This is a known issue — will be fixed in v1.0.
+
+────────────────────────────
+🌐 Support & Updates
+────────────────────────────
+Version: 0.8.0 “New Orleans”  
+Developer: Twisted Poet  
+Release Type: Early Access  
+Contact: twisted.poet@ymail.com
+
+────────────────────────────
+
+──────────────
+❓ Frequently Asked Questions – QRMagic v0.8.0
+──────────────
+
+Q: Is QRMagic free to use?
+A: Yes! Guest Mode offers full QR generation functionality with 5 stylish preset labels. Pro Mode simply unlocks more customization.
+
+Q: What’s the difference between Guest and Pro Mode?
+A: Guest Mode = Black & white QR with preset labels.  
+   Pro Mode = Custom colors, text, icons, and styling.
+
+Q: How do I unlock Pro Mode?
+A: Enter any valid registration key, as provided.
+
+Q: Where do I get a Registration Key?
+A: Use your browser or PayPal App to navigate to PayPal.me/YourFour
+   Make a payment of $2 and Include your EMail address and "QRMaigic Registration" as comments  
+
+Q: Does my registration persist after closing the app?
+A: Yes. QRMagic remembers your Pro Mode status unless you manually clear app data.
+
+Q: Where are my QR codes saved?
+A: They’re saved in the `InternalStorage/Pictures/QRMagic/` folder on your device.
+
+Q: What’s that pink QR theme?
+A: It’s an Easter Egg! Try typing `qrmagic.devpink` into the generator.
+
+Q: My screen looks weird in Dark Mode. What gives?
+A: Some input fields may show light gray text on a white background. We’re working on full Light/Dark theming for v1.0.
+
+Q: Can I share or export QR codes?
+A: Not yet — image sharing and one-click exports are planned for v1.0.
+
+Q: Can I use emojis in the label?
+A: Absolutely. The icon picker gives you emoji-style label decorations. Works great for contact, link, and info codes.
+
+Q: I have feedback or a feature idea!
+A: We’d love to hear from you. Drop us a note at: twisted.poet@ymail.com
+
+──────────────
+
